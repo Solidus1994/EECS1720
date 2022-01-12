@@ -1,0 +1,16 @@
+<!DOCTYPE HTML>
+<html>
+
+<body>
+
+  <p>Before the script...</p>
+
+  <script>
+    alert( 'Hello, world! and Hello EECS 1720' );
+  </script>
+
+  <p>...After the script.</p>
+
+</body>
+
+</html>
